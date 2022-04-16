@@ -2,6 +2,6 @@
 Desafio de criar um repositório no GitHub
 
 
-##Instagram
+## Instagram
 [@matcacabuena](https://www.instagram.com/matcacabuena)
-#Be yourself no matter what they say
+# Be yourself no matter what they say
