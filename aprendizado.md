@@ -1,5 +1,5 @@
 # O segredo é o trabalho em equipe e o estudo nos programas
-Anotações relevantes do que aprendi:
+## Anotações relevantes do que aprendi:
 - Git e GitHub não são a mesma coisa, mas não significa que eles não se complementam.
 - O trabalho em equipe é essencial na área comercial.
 - Um Product Owner não é superior aos Desenvolvedores, mas sim parceiro.
